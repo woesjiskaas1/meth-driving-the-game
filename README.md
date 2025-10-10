@@ -6,11 +6,11 @@
 3. als spelers wil ik de eniemes elimeneren door erover heen te rijden
 
 ## checklist
-- [ ]3rd person
-- [ ]driving
-- [ ]zombies movement
-- [ ]player movement
-- [ ]interactible items
+- [ ] 3rd person
+- [ ] driving
+- [ ] zombies movement
+- [ ] player movement
+- [ ] interactible items
 
 ## timeline
 | naam | week 42  | week 43 |
