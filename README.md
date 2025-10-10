@@ -12,8 +12,13 @@
 
 [] zombies movement
 
+[] player movement
+
+[] interactible items
+
 ## timeline
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| naam | week 42  | week 43 |
+| ------------- | ------------- | ------------- |
+| `alex` | driving  | Content Cell  |
+| `caspar` | zombies movement  | Content Cell  |
+| `senn`| inteactible items | content call |
