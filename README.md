@@ -40,4 +40,4 @@ This obby focuses on **skill, timing, and physics-based traversal** rather than 
 
 1. Clone or download the repository
    ```bash
-   git clone https://github.com/your-username/grapple-obby.git
+   git clone https://github.com/woesjiskaas1/meth-driving-the-game.git
